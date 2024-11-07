@@ -1,2 +1,1 @@
-job-supervisors-cj = the chief justice
-
+job-supervisors-cj = главный судья  

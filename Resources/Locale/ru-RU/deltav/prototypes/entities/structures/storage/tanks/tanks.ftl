@@ -1,5 +1,5 @@
-ent-KvassTank = КВАС
-    .desc = A cool refreshing drink with a taste of socialism.
+ent-KvassTank = КВАС  
+    .desc = Прохладительный напиток со вкусом социализма.
 
 ent-KvassTankFull = { ent-KvassTank }
     .desc = { ent-KvassTank.desc }

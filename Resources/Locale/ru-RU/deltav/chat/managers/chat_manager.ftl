@@ -1,17 +1,17 @@
-chat-speech-verb-name-vulpkanin = Vulpkanin
-chat-speech-verb-vulpkanin-1 = rawrs
-chat-speech-verb-vulpkanin-2 = barks
-chat-speech-verb-vulpkanin-3 = rurs
-chat-speech-verb-vulpkanin-4 = yaps
+chat-speech-verb-name-vulpkanin = Вулпканин  
+chat-speech-verb-vulpkanin-1 = рычит  
+chat-speech-verb-vulpkanin-2 = лает  
+chat-speech-verb-vulpkanin-3 = урчит  
+chat-speech-verb-vulpkanin-4 = тявкает  
 
-chat-speech-verb-name-felinid = Felinid
-chat-speech-verb-felinid-1 = mraows
-chat-speech-verb-felinid-2 = mews
-chat-speech-verb-felinid-3 = meows
-chat-speech-verb-felinid-4 = purrs out
+chat-speech-verb-name-felinid = Феленид  
+chat-speech-verb-felinid-1 = мяукает  
+chat-speech-verb-felinid-2 = поет  
+chat-speech-verb-felinid-3 = мяукает  
+chat-speech-verb-felinid-4 = мурлычет  
 
-chat-speech-verb-name-harpy = Harpy
-chat-speech-verb-harpy-1 = chirps
-chat-speech-verb-harpy-2 = tweets
-chat-speech-verb-harpy-3 = caws
-chat-speech-verb-harpy-4 = trills
+chat-speech-verb-name-harpy = Гарпия
+chat-speech-verb-harpy-1 = чирикает  
+chat-speech-verb-harpy-2 = твитит  
+chat-speech-verb-harpy-3 = каркает  
+chat-speech-verb-harpy-4 = треллит 

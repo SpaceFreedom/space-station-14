@@ -1,2 +1,1 @@
-department-Justice-description = Uphold justice on the station.
-
+department-Justice-description = Поддерживайте правосудие на станции.
