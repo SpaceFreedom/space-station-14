@@ -1,2 +1,3 @@
-station-event-xeno-vents-announcement = Confirmed sightings of hostile alien wildlife on the station. Personnel are advised to arm themselves, barricade doors, and defend themselves if necessary. Security is advised to eradicate the threat as soon as possible.
-station-event-xeno-vents-weak-announcement = Suspected signatures of hostile alien wildlife detected on the station. Personnel are advised to arm themselves, barricade doors, and defend themselves if necessary. Security is advised to eradicate the threat as soon as possible.
+station-event-xeno-vents-announcement = Подтверждены наблюдения враждебной инопланетной флоры и фауны на станции. Персоналу рекомендуется вооружиться, заставить двери и защищаться при необходимости. Службе безопасности рекомендуется устранить угрозу как можно скорее.  
+
+station-event-xeno-vents-weak-announcement = Подозрительные сигнатуры враждебной инопланетной флоры и фауны обнаружены на станции. Персоналу рекомендуется вооружиться, заставить двери и защищаться при необходимости. Службе безопасности рекомендуется устранить угрозу как можно скорее. 

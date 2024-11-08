@@ -1,7 +1,7 @@
-research-technology-exotic-ammunition = Exotic Ammunition
+research-technology-exotic-ammunition = Экзотические боеприпасы
 
-research-technology-energy-gun = Energy Guns
+research-technology-energy-gun = Энергетические оружия
 
-research-technology-energy-gun-advance = Advanced Energy Manipulation
+research-technology-energy-gun-advance = Продвинутая манипуляция энергией
 
-research-technology-advance-laser = Advanced Laser Manipulation
+research-technology-advance-laser = Продвинутая манипуляция лазером
